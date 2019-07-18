@@ -1,1 +1,1 @@
-
+KATARA thermal and valve control software were written by Jonathan White (White and Streets, HardwareX 2018), and supported versions are available at https://github.com/streetslab. The archived versions here include modifications and macros written by Nicolas Altemose for operating the microDamID device (Altemose et al. 2019).
